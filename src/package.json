@@ -1,0 +1,16 @@
+{
+    "name": "PyLibSharpDocs",
+    "version": "1.0.0",
+    "description": "PyLibSharp 文档",
+    "main": "index.js",
+    "repository": "https://github.com/xh321/PyLibSharpDocs.git",
+    "author": "小何 <xiaohe321@outlook.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^1.7.1"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    }
+}
